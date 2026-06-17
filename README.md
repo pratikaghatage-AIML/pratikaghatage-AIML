@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Pratik! 👋
 
-<!--
-**pratikaghatage-AIML/pratikaghatage-AIML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI / ML Developer & Web Specialist
+A passionate data driven developer focused on building smart artificial intelligence solutions, interactive machine learning dashboards, and clean, responsive web platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, SQL (MySQL), HTML5, CSS3
+* **AI/ML & Frameworks:** Streamlit, Data Visualization, Predictive Modeling
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 Current Projects Overview
+
+* 🤖 **AI & Voice Apps:** Building custom voice-driven functionalities and intelligent automation scripts.
+* 🌐 **Web Development:** Designing full-scale layouts for NGOs, training institutes, and industrial businesses.
+* 🗄️ **Database Systems:** Structuring relational databases to manage corporate and institutional data.
+
+---
+
+### 📫 Connect with me
+* 💼 **GitHub Portfolio:** You are looking at it! Feel free to explore my repositories below.
