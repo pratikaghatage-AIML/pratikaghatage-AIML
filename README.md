@@ -1,4 +1,4 @@
-# Hi there, I'm Pratik! 👋
+# Hi there, I'm Pratika! 👋
 
 ### 🚀 AI / ML Developer & Web Specialist
 A passionate data driven developer focused on building smart artificial intelligence solutions, interactive machine learning dashboards, and clean, responsive web platforms.
